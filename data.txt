@@ -1,12 +1,6 @@
 This is line one
-<<<<<<< HEAD
 this is line two
-<<<<<<< HEAD
 this is line three
 line 4 
-=======
 this is line two in Linux
->>>>>>> f49ac67... line two
-=======
 this is line three 
->>>>>>> ede31d8... line three
