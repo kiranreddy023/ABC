@@ -1,0 +1,13 @@
+total 40
+-rw-rw-r-- 1 kiran kiran  169 Jun  3 21:10 test.py
+-rw-rw-r-- 1 kiran kiran    7 Jun  3 21:10 stash4.txt
+-rw-rw-r-- 1 kiran kiran    8 Jun  3 21:10 stash3.txt
+-rw-rw-r-- 1 kiran kiran    9 Jun  3 21:10 dev_data.txt
+-rw-rw-r-- 1 kiran kiran   88 Jun  3 21:10 data.txt
+-rwxrw-r-- 1 kiran kiran   28 Jun  3 21:10 cash.sh
+-rw-rw-r-- 1 kiran kiran    0 Jun  3 21:10 a3
+drwxrwxr-x 8 kiran kiran 4096 Jun  3 21:10 .git
+-rw-rw-r-- 1 kiran kiran   45 Jun  3 21:10 my_dict.json
+drwxr-x--- 4 kiran kiran 4096 Jun  3 21:13 ..
+-rw-rw-r-- 1 kiran kiran    0 Jun  3 21:13 afile.txt
+drwxrwxr-x 3 kiran kiran 4096 Jun  3 21:13 .
