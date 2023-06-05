@@ -1,3 +1,3 @@
 #!/bin/bash
 
-cat -n bash.sh
+cat -n data.txt
